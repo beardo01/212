@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<tournament>
+    <match>
+        <date>
+            <day>14</day>
+            <month>2</month>
+            <year>2525</year>
+        </date>
+        <venue>Earth</venue>
+        <team score="3">Team 3</team>
+        <team score="2">Team 2</team>
+    </match>
+
+    <match>
+        <date>
+            <day>14</day>
+            <month>2</month>
+            <year>2525</year>
+        </date>
+        <venue>Pluto</venue>
+        <team score="1">Team 1</team>
+        <team score="2">Team 4</team>
+    </match>
+
+    <match>
+        <date>
+            <day>18</day>
+            <month>2</month>
+            <year>2525</year>
+        </date>
+        <venue>Mars</venue>
+        <team score="1">Team 5</team>
+        <team score="1">Team 1</team>
+    </match>
+
+    <match>
+        <date>
+            <day>18</day>
+            <month>2</month>
+            <year>2525</year>
+        </date>
+        <venue>Mercury</venue>
+        <team score="0">Team 2</team>
+        <team score="0">Team 3</team>
+    </match>
+
+    <match>
+        <date>
+            <day>22</day>
+            <month>2</month>
+            <year>2525</year>
+        </date>
+        <venue>Jupiter</venue>
+        <team score="2">Team 4</team>
+        <team score="1">Team 5</team>
+    </match>
+
+    <match>
+        <date>
+            <day>22</day>
+            <month>2</month>
+            <year>2525</year>
+        </date>
+        <venue>Earth</venue>
+        <team score="3">Team 1</team>
+        <team score="3">Team 3</team>
+    </match>
+
+    <match>
+        <date>
+            <day>24</day>
+            <month>2</month>
+            <year>2525</year>
+        </date>
+        <venue>Saturn</venue>
+        <team>Team 2</team>
+        <team>Team 4</team>
+    </match>
+
+    <match>
+        <date>
+            <day>27</day>
+            <month>2</month>
+            <year>2525</year>
+        </date>
+        <venue>Mercury</venue>
+        <team>Team 1</team>
+        <team>Team 4</team>
+    </match>
+
+    <match>
+        <date>
+            <day>25</day>
+            <month>2</month>
+            <year>2525</year>
+        </date>
+        <venue>Neptune</venue>
+        <team>Team 3</team>
+        <team>Team 5</team>
+    </match>
+
+    <match>
+        <date>
+            <day>26</day>
+            <month>2</month>
+            <year>2525</year>
+        </date>
+        <venue>Saturn</venue>
+        <team>Team 2</team>
+        <team>Team 5</team>
+    </match>
+</tournament>

@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<tournament>
+    <match> 
+        <date>
+            <day>14</day>
+            <month>6</month>
+            <year>2016</year>
+        </date>
+        <venue>Nouveau Stade de Bordeaux</venue>
+        <team score='1'>Austria</team>
+        <team score='1'>Hungary</team>
+    </match>
+    <match>
+        <date>
+            <day>14</day>
+            <month>6</month>
+            <year>2016</year>
+        </date>
+        <venue>Stade Geoffroy-Guichard</venue>
+        <team score='1'>Portugal</team>
+        <team score='1'>Iceland</team>
+    </match>
+    <match>
+        <date>
+            <day>18</day>
+            <month>6</month>
+            <year>2016</year>
+        </date>
+        <venue>Stade Velodrome</venue>
+        <team score='1'>Iceland</team>
+        <team score='1'>Hungary</team>
+    </match>
+    <match>
+        <date>
+            <day>18</day>
+            <month>6</month>
+            <year>2016</year>
+        </date>
+        <venue>Parc de Princes</venue>
+        <team score='0'>Portugal</team>
+        <team score='0'>Austria</team>
+    </match>
+    <match>
+        <date>
+            <day>22</day>
+            <month>6</month>
+            <year>2016</year>
+        </date>
+        <venue>Stade de France</venue>
+        <team score='2'>Iceland</team>
+        <team score='1'>Austria</team>
+    </match>
+    <match>
+        <date>
+            <day>22</day>
+            <month>6</month>
+            <year>2016</year>
+        </date>
+        <venue>Parc Olympique Lyonnais</venue>
+        <team score='3'>Hungary</team>
+        <team score='3'>Portugal</team>
+    </match>
+</tournament>

@@ -1,0 +1,12 @@
+<?xml version='1.0'?>
+<venues>
+    <venue>Mercury</venue>
+    <venue>Venus</venue>
+    <venue>Earth</venue>
+    <venue>Mars</venue>
+    <venue>Jupiter</venue>
+    <venue>Saturn</venue>
+    <venue>Uranus</venue>
+    <venue>Neptune</venue>
+    <venue>Pluto</venue>
+</venues>
